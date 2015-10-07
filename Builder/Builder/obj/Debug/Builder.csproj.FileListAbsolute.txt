@@ -1,0 +1,6 @@
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Builder\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\HOUSE\Documents\Visual Studio 2013\Projects\Builder\Builder\obj\Debug\Builder.pdb
